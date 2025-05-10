@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vansh-machhi/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/vansh-machhi/leetcode/tree/master/0036-valid-sudoku) |
 | [0209-minimum-size-subarray-sum](https://github.com/vansh-machhi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vansh-machhi/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/vansh-machhi/leetcode/tree/master/0036-valid-sudoku) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vansh-machhi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/vansh-machhi/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->

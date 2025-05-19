@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vansh-machhi/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/vansh-machhi/leetcode/tree/master/0036-valid-sudoku) |
 | [0209-minimum-size-subarray-sum](https://github.com/vansh-machhi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1677-matrix-diagonal-sum](https://github.com/vansh-machhi/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vansh-machhi/leetcode/tree/master/0036-valid-sudoku) |
+| [1677-matrix-diagonal-sum](https://github.com/vansh-machhi/leetcode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->

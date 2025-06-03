@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vansh-machhi/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/vansh-machhi/leetcode/tree/master/0036-valid-sudoku) |
+| [0142-linked-list-cycle-ii](https://github.com/vansh-machhi/leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/vansh-machhi/leetcode/tree/master/0036-valid-sudoku) |
 | [1677-matrix-diagonal-sum](https://github.com/vansh-machhi/leetcode/tree/master/1677-matrix-diagonal-sum) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/vansh-machhi/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/vansh-machhi/leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
